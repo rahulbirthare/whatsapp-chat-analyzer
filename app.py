@@ -1,5 +1,5 @@
 
-import seaborn as sns
+import sns
 
 import streamlit as st
 import preprocessor,helper
